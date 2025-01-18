@@ -19,11 +19,12 @@ Follow the steps below to install the man page on macOS, Linux, or NixOS.
 3. **Create a Local Man Directory (Optional)**
    mv act-normal.1 ~/man/man1/
 
-4. **Add the Man Path to Your Environment: Open your shell configuration file (~/.zshrc, ~/.bashrc, etc.) and add:**
+4. **Add the Man Path to Your Environment:**
+   Open your shell configuration file (~/.zshrc, ~/.bashrc, etc.) and add:**
    export MANPATH=$HOME/man:$MANPATH
 
-5. **Reload shell configuration**
+6. **Reload Shell Configuration**
    source ~/.zshrc  # or source ~/.bashrc
 
-6. **Test man page**
+7. **Test Man Page**
    man act-normal
