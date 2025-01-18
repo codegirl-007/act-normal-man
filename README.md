@@ -7,6 +7,7 @@ This is a humorous and helpful manual (`act-normal`) that guides users on how to
 3. Add the Directory to Your MANPATH in your .zshrc or .bashrc file
 ```
 export export MANPATH=$HOME/man:$MANPATH
+```
 4. Reload shell configs
 ```
 source ~/.zshrc  # or source ~/.bashrc
