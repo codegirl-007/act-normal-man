@@ -8,8 +8,6 @@ Follow the steps below to install the man page on macOS, Linux, or NixOS.
 
 ---
 
-### macOS Installation
-
 1. **Save the File**  
    Save the `act-normal.1` file to your desired location.
 
